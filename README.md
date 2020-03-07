@@ -28,8 +28,12 @@
 
 - **Neural Cross-Lingual Entity Linking** (   AAAI 2018: 5464-5472). [[pdf](https://arxiv.org/abs/1712.01813)]
 
+- **Improving Entity Linking by Modeling Latent Relations between Mentions** (  ACL (1) 2018: 1595-1604). [[pdf](https://www.aclweb.org/anthology/P18-1148/)]
+
 
 ## 2017
+
+- **Deep Joint Entity Disambiguation with Local Neural Attention** (   EMNLP 2017: 2619-2629). [[pdf](https://www.aclweb.org/anthology/D17-1277/)]
 
 
 ## 2016
@@ -37,4 +41,8 @@
 - **Joint Learning of Local and Global Features for Entity Linking via Neural Networks** (COLING 2016: 2310-2320). [[pdf](https://www.aclweb.org/anthology/C16-1218/)]
 
 - **Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks** (HLT-NAACL 2016: 1256-1261). [[pdf](https://www.aclweb.org/anthology/N16-1150/)]
+
+## reference
+
+1. [【知识图谱】实体链接：一份“由浅入深”的综述](https://zhuanlan.zhihu.com/p/100248426)
 
