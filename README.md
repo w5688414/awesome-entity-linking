@@ -2,6 +2,13 @@
 
 ## 2019
 
+- **Dual-FOFE-net Neural Models for Entity Linking with PageRank** (ICANN (Workshop) 2019: 635-645
+). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-30493-5_58)]
+
+- **Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning** (IJCAI 2019: 5327-5333). [[pdf](https://www.ijcai.org/Proceedings/2019/740)]
+
+- **Entity Linking via Symmetrical Attention-Based Neural Network and Entity Structural Features** (Symmetry 11(4): 453 (2019)). [[pdf](https://www.mdpi.com/2073-8994/11/4/453)]
+
 - **Mention Detection Method for Entity Linking** (BCD 2019: 41-45). [[pdf](https://ieeexplore.ieee.org/document/8885241)]
 
 - **A Neural Approach to Entity Linking on Wikidata** ( ECIR (2) 2019: 78-86). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-15719-7_10)]
